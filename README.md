@@ -28,35 +28,19 @@ This project is a **LiPo Battery Charger** designed using **Altium Designer**. T
 
 ---
 
-## 📁 Project Structure
-```
-LiPo-Battery-Charger/
-│── docs/               # Documentation files (PDFs, reports)
-│── schematics/         # Altium schematic files (.SchDoc)
-│── pcb/                # PCB layout files (.PcbDoc)
-│── gerber/             # Gerber files for PCB fabrication
-│── 3d_models/          # 3D model files (.step)
-│── bom/                # Bill of Materials (.csv, .xls)
-│── images/             # Screenshots of schematic, PCB, 3D views
-│── README.md           # Project description (this file)
-│── LICENSE             # (Optional) License for open-source use
-```
-
----
-
 ## 🛠️ Required Files & How to Get Them
-### 1. **Schematic Files (`schematics/` Folder)**
+### 1. **Schematic Files (`Schematics/` Folder)**
 - Export **.SchDoc** from Altium Designer.
 
-### 2. **PCB Layout Files (`pcb/` Folder)**
+### 2. **PCB Layout Files (`PCB/` Folder)**
 - Export **.PcbDoc** from Altium Designer.
 
-### 3. **Gerber Files (`gerber/` Folder)**
+### 3. **Gerber Files (`Gerber/` Folder)**
 - Go to **File > Fabrication Outputs > Gerber Files**.
 - Select layers (Top, Bottom, Silkscreen, Solder Mask, Drill File).
 - Click **Generate** & save.
 
-### 4. **3D Model Files (`3d_models/` Folder)**
+### 4. **3D Model Files (`3D_models/` Folder)**
 - Open **PcbDoc > File > Export > STEP 3D**.
 - Save as `.step`.
 
@@ -64,10 +48,7 @@ LiPo-Battery-Charger/
 - Go to **Reports > Bill of Materials (BOM)**.
 - Export as **CSV or XLS**.
 
-### 6. **Project Documentation (`docs/` Folder)**
-- Contains reports, circuit explanations, and fabrication drawings.
-
-### 7. **Images (`images/` Folder)**
+### 6. **Images (`Images/` Folder)**
 - Screenshots of schematic, PCB layout, and 3D views.
 
 ---
@@ -75,7 +56,7 @@ LiPo-Battery-Charger/
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/LiPo-Battery-Charger.git
+   [git clone htps://github.com/DhavalKalathiya-Xenox/LiPo-Battery-Charger-PCB.git]
    ```
 2. Open the Altium project files (`.SchDoc`, `.PcbDoc`).
 3. Modify the design as needed.

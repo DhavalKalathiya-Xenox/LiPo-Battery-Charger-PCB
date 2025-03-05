@@ -3,7 +3,7 @@
 ## Overview
 This project is a **LiPo Battery Charger** designed using **Altium Designer**. The charger supports **3.7V LiPo cells** and provides charging at **500mA or 100mA**. It is designed for **single-cell Li-Ion or Li-Polymer batteries**.
 
-![LiPo Battery Charger PCB](images/lipo_charger_pcb.png)
+![LiPo Battery Charger PCB](images/Lipo-Charger-3D.png)
 
 ### Features
 - **Charging Circuit**: Charges LiPo batteries safely.

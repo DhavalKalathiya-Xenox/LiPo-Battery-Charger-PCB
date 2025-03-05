@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LiPo Battery Charger (Altium Design)
 
 ## Overview
@@ -80,3 +81,7 @@ This project is licensed under the **[MIT License](LICENSE)**.
 For questions or improvements, feel free to **open an issue** or submit a **pull request**.
 
 🚀 Happy Designing!
+=======
+# LiPo-Battery-Charger-PCB
+LiPo Battery Charger PCB designed in Altium Designer
+>>>>>>> fd80c9f (Initial commit with project files)

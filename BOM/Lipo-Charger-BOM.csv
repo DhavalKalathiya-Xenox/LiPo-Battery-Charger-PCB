@@ -1,0 +1,13 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"4.7uF","4.7uF","C1, C2","CAPC1206(3216)150_M","CMP-1037-04894-1","2"
+"40V, 1A","Schottky Power Rectifier, 2-Pin SMA, Pb-Free, Tape and Reel","D1, D2","ONSC-SMA-2-403D-02_V","CMP-1055-00320-1","2"
+"694106301002","","J1","694106301002","CMP-1502-00188-2","1"
+"Micro-USB B","","J2","USB-MICRO-B_V","CMP-2000-05827-1","1"
+"connector header","","J3, J4","2-179276-2","2-179276-2","2"
+"1933189","No Description Available","J5, J6","CONN02_1933189_PXC","1933189","2"
+"Mounting Hole Non-Plated 3.2mm","Mounting Hole Non-Plated 3.2mm","MHNP1, MHNP2, MHNP3, MHNP4","MTHNP3P2","MTHNP3P2","4"
+"2K ohm","","R1, R2","RESC2013X70X40LL20T20","CMP-2001-00483-1","2"
+"PROG","","R3","FP-CMF50-0","CMP-00030-44386654-1","1"
+"SJUMPER","solder jumper 3 pods and pins","SJ","SJUMPER-Footprint-1","CMP-00000-1","1"
+"Charge Management Controller","","U1","SOT-23-OT5_M","CMP-0133-00139-1","1"
